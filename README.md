@@ -10,11 +10,29 @@ I have a keen interest in **geometric deep learning**, **3D data processing**, a
 
 ## Projects
 
-- **Laplace-Beltrami Operator Solver**  
-  A Python-based project that implements the Laplace-Beltrami operator on 3D meshes to study their properties using ODE solvers.
+- **As-Rigid-As-Possible**  
+  A Python-based project that implements the ARAP algorithm on 3D meshes for deformation
   
-- **Voronoi Area Calculation in Meshes**  
-  A tool for efficiently calculating Voronoi areas of 3D meshes using cotangent weights and mesh properties.
+- **Laplacian Mesh Editting**  
+  A python based implementation of the Laplacian mesh editing scheme for intuitive deformation.
+
+- **Rigidity Informed Mesh deformation algorithm**
+  A python based implementation of the rigidity informed mesh deformation algorithm.
+
+- **Shape analysis and Statistics**
+  For the course Computational Shape modelling, in a group of two we did labs implementing algorithms for shape analysis, deformation like skinning, shape statistics etc.
+
+- **Deep learning architectures**
+  Self learning labs for learning different architectures and techniques in deep learning like node dropeout, Encoder-Decoder, U-net, Resnet etc. and experimentation on biologically plausible algorithms for replacing backpropogation.
+
+- **Differential geometry of curves and surfaces**
+  Did an independent project on differential geometry of curves and surfaces with Prof. Aditya Tatu
+
+- **Approximation Algorithms**
+  In a group, for the course project we explored the approximation algorithms used in networks.
+
+- **Time series**
+  For the course project we explored ARIMA models and other statistical tools used in time series on the temperature data in india.
 
 ## Skills
 
