@@ -1,6 +1,4 @@
----
-layout: default
----
+
 # Welcome to My GitHub
 
 ![Profile Image]([path-to-your-image](https://github.com/vrajthakkar90/vrajthakkar90.github.io/blob/main/My%20photo.jpeg))
