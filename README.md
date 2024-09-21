@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub
 
-![Profile Image](My photo.jpeg)
+![Profile Image]([My photo.jpeg](https://github.com/vrajthakkar90/vrajthakkar90.github.io/blob/fda3a83b357a1de9da5def5bf6cd8a251ec5f086/My%20photo.jpeg))
 
 ## About Me
 
