@@ -51,4 +51,4 @@ I have a keen interest in **geometric deep learning**, **3D data processing**, a
 ## Get in Touch
 
 - **Email**: vraj.thakkar9020@gmail.com
-- **LinkedIn**: [Vraj Thakkar]([https://www.linkedin.com](https://www.linkedin.com/in/vraj-thakkar-784026286/))
+- **LinkedIn**: [Vraj Thakkar]([https://www.linkedin.com](https://www.linkedin.com/in/vraj-thakkar-784026286/)
