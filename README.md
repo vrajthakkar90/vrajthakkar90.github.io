@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub
 
-![Profile Image]([My photo.jpeg](https://github.com/vrajthakkar90/vrajthakkar90.github.io/blob/main/My%20photo.jpeg)
+![Profile Image](https://github.com/vrajthakkar90/vrajthakkar90.github.io/blob/main/My%20photo.jpeg)
 ## About Me
 
 I am a **highly motivated individual** currently pursuing a **Bachelor of Technology in Mathematics and Computing** at **DA-IICT**. My primary interests lie at the intersection of **computer vision** and **geometry processing**. I enjoy working on complex problems that blend computational algorithms with real-world visual data.
