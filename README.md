@@ -2,7 +2,7 @@
 # <span style="color:black;">Vraj Thakkar</span>
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/vrajthakkar90/vrajthakkar90.github.io/main/img.jpeg" alt="Profile Photo" width="150" style="border-radius: 50%; border: 2px solid #444;">
+  <img src="https://github.com/vrajthakkar90/vrajthakkar90.github.io/blob/main/img.jpg" alt="Profile Photo" width="150" style="border-radius: 50%; border: 2px solid #444;">
 </div>
 
 ## About Me
