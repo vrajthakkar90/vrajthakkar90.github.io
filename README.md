@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://raw.githubusercontent.com/vrajthakkar90/vrajthakkar90.github.io/main/My%20photo.jpeg" alt="Profile Photo" width="150" style="border-radius: 50%; border: 2px solid #444;">
+  <img src="https://raw.githubusercontent.com/vrajthakkar90/vrajthakkar90.github.io/main/img.jpeg" alt="Profile Photo" width="150" style="border-radius: 50%; border: 2px solid #444;">
 </div>
 
 # <span style="color:black;">Vraj Thakkar</span>
