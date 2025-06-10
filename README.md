@@ -8,13 +8,17 @@ Hello, I have completed my B.Tech in Mathematics and Computing from **Dhirubhai 
 
 ## Projects
 
-- **Differential Privacy in Machine Learning**:
-- **Mesh Deformation Algorithm**:
-- **Deep Neural Natural Language Processing**:
-- **Complex Networks**:
+- **Differential Privacy in Machine Learning**
+- **Mesh Deformation Algorithm**
+- **Deep Neural Natural Language Processing**
+- **Complex Networks**
 
 ## Learning
-I have enjoyed studying other subjects during my B.Tech, to mention a few **Approximation algorithms**, **Time Series**, **Deep Learning**, and **Numerical Methods.**
+I have enjoyed studying other subjects during my B.Tech, to mention a few **Approximation algorithms**, **Time Series**, **Deep Learning**, **Deep Neural NLP** and **Numerical Methods.**
+
+## Research Interests
+
+I have an interest in Machine Learning(theory and applied) and Geometry/Graphics processing. I am very curious about intelligent systems and what the future holds. And I also find LLMs fascinating and love reading about them. 
 
 ## Get in Touch
 
